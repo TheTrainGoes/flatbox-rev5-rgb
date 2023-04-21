@@ -19,7 +19,7 @@ You will need the following parts to complete a case:
 11 x Flatbox Rev 5 RGB - Buttons - Small Button
 6 x 6x6 tac switch cap covers (https://www.aliexpress.com/item/32951763610.html)
 7 x M2x3x3.5 heat inserts (https://www.amazon.ca/dp/B0B8GN63S2)
-7 x M2x6mm button head bolts (https://www.aliexpress.com/item/32967225441.html)
+7 x M2x8mm button head bolts (https://www.aliexpress.com/item/32967225441.html)
 
 ---
 
