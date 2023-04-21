@@ -13,15 +13,15 @@ Please note that printing the buttons in white resin will allow the LEDs to show
 
 ---
 
-You will need the following parts to complete a case:
-1 x Flatbox Rev 5 RGB board (either v1 or v2) with pre-soldered hot-swap sockets and 6x6x8 tac switches + the Waveshare RP2040 Zero
-1 x Flatbox rev 5 RGB - Art Case - Main Frame
-1 x Flatbox rev 5 RGB - Art Case - Top Support
-1 x Flatbot Rev 5 RGB - Buttons - Large Button
-11 x Flatbox Rev 5 RGB - Buttons - Small Button
-6 x 6x6 tac switch cap covers (https://www.aliexpress.com/item/32951763610.html)
-7 x M2x3x3.5 heat inserts (https://www.amazon.ca/dp/B0B8GN63S2)
-7 x M2x8mm button head bolts (https://www.aliexpress.com/item/32967225441.html)
+You will need the following parts to complete a case:<br/>
+1 x Flatbox Rev 5 RGB board (either v1 or v2) with pre-soldered hot-swap sockets and 6x6x8 tac switches + the Waveshare RP2040 Zero<br/>
+1 x Flatbox rev 5 RGB - Art Case - Main Frame<br/>
+1 x Flatbox rev 5 RGB - Art Case - Top Support<br/>
+1 x Flatbot Rev 5 RGB - Buttons - Large Button<br/>
+11 x Flatbox Rev 5 RGB - Buttons - Small Button<br/>
+6 x 6x6 tac switch cap covers (https://www.aliexpress.com/item/32951763610.html)<br/>
+7 x M2x3x3.5 heat inserts (https://www.amazon.ca/dp/B0B8GN63S2)<br/>
+7 x M2x8mm button head bolts (https://www.aliexpress.com/item/32967225441.html)<br/>
 
 ---
 
