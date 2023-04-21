@@ -5,7 +5,7 @@ Flatbox Rev 5 RGB - Basic Case
 
 Summary: 
 
-The Flatbox Rev 5 RGB Basic Case is simple case that omits the flexible aux button tabs in favor of button caps.  
+The Flatbox Rev 5 RGB Basic Case is simple case that omits the flexible aux button tabs in favor of button caps.  While I have not come up with a perfect solution yet for the Player LEDs, it looks quite good if you put two layers of painters tape down and then a flat metal object and inject some hot glue from the other side.
 
 ---
 
