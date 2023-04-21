@@ -1,5 +1,7 @@
 ![Flatbox Rev 5 RGB - Art Case](https://github.com/TheTrainGoes/flatbox-rev5-rgb/blob/main/Flatbox%20rev%205%20RGB%20case%20-%20Art%20Case/Images/Flatbox%20rev%205%20RGB%20-%20Art%20Case.jpg?raw=true)
 
+![Flatbox Rev 5 RGB - Art Case (illuminated)](https://github.com/TheTrainGoes/flatbox-rev5-rgb/blob/main/Flatbox%20rev%205%20RGB%20case%20-%20Art%20Case/Images/Flatbox%20rev%205%20RGB%20-%20Art%20Case%20(illuminated).jpg?raw=true)
+
 Flatbox Rev 5 RGB - Art Case
 ---
 
