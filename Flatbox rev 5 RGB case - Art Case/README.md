@@ -7,7 +7,9 @@ Flatbox Rev 5 RGB - Art Case
 
 Summary: 
 
-The Flatbox Rev 5 RGB Art Case is a more premium case that allows for a plexi top cover and option art insert.
+The Flatbox Rev 5 RGB Art Case is a more premium case that allows for a plexi top cover and option art insert.  
+
+Please note that printing the buttons in white resin will allow the LEDs to show through better, but there are no issues with printing them in PLA with a normal 3D printer.
 
 ---
 
